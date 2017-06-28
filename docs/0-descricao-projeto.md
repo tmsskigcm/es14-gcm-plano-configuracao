@@ -8,7 +8,11 @@ O problema da falta de automatização dos processos de gerenciamento do estabel
 
 1 Controle de Clientes
 
-2 Controle de Serviços 
+2 Controle de Serviços
+
 3 Controle de Veículos
+
 4 Controle Financeiro
+
 5 Controle de Estoque
+

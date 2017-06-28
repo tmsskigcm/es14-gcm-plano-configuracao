@@ -2,11 +2,14 @@
 
 <table>
 <tr><th>Item de configuração</th><th>Equipe responsável (analistas de sistemas, programadores etc.)</th></tr>
-<tr><td>Declaração do Escopo<br>
-        Integrantes do Projeto<br>
-        Regras de Comunicação<br>
-    </td>
-    <td>Jéssica</td></tr>
+<tr>
+    <td>Declaração do Escopo</td>
+    <td>Jéssica</td>
+</tr>
+<tr>
+    <td>Integrantes do Grupo</td>
+    <td>Jéssica</td>
+</tr>
 <tr><td>[Item de configuração 2]</td><td>[equipe responsável 2]</td></tr>
 <tr><td>[Item de configuração 3]</td><td>[equipe responsável 3]</td></tr>
 <tr><td>[Item de configuração 4]</td><td>[equipe responsável 4]</td></tr>

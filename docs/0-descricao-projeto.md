@@ -7,6 +7,7 @@ O problema da falta de automatização dos processos de gerenciamento do estabel
 ## Funcionalidades deste sistema
 
 1 Controle de Clientes
+
 2 Controle de Serviços 
 3 Controle de Veículos
 4 Controle Financeiro

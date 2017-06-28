@@ -3,7 +3,7 @@
 <table>
 <tr><th>Item de configuração</th><th>Equipe responsável (analistas de sistemas, programadores etc.)</th></tr>
 <tr><td>Declaração do Escopo<br>
-        Declaração do Escopo<br>
+        Integrantes do Projeto<br>
         Regras de Comunicação<br>
     </td>
     <td>Jéssica</td></tr>

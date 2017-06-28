@@ -4,13 +4,14 @@
 
 Descrever a organização, nomenclatura e regras para gerenciar a configuração e as mudanças do **projeto deste grupo**.
 
-## Nome do projeto: [nome do seu projeto]
+## Nome do projeto: Projeto PetWeb
 
 ## Integrantes do grupo
 
-* [integrante 1]
-* [integrante 2]
-* [integrante 3]
-* [integrante 4]
-* [integrante 5]
+* Elaine Pereira da Silva Alves
+* Janaina Pereira dos Santos
+* Luciana Eloi de Andrade
+* Marcelo Augusto de Moraes
+* Sara Pastor Hidalgo
+* Sergio Eduardo Di Santoro Bruzetti
 

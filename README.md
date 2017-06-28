@@ -5,10 +5,10 @@
 
 ## Regras para contribuição
 <p>Para contribuir, tenha em mente que <strong>sempre</strong> o que estiver na branch <strong>master</strong> é o que estará em produção. Será configurado ambiente de integração contínua!</p>
-<p>O código de cada módulo desenvolvido deverá ser depositado em <strong>/<nome do submodulo>/src</strong></p>
+<p>O código de cada módulo desenvolvido deverá ser depositado em <strong>/{{nome do submodulo}}/src</strong></p>
 <p>
-    Todos os artefatos de documentação deverão ser depositados em <strong>/docs/<fase de elaboração do artefato>/</strong>. <br>
-    Por exemplo, caso sejam artefatos referentes à <strong>levantamento de requisitos</strong>, colocar em <strong>/docs/Requisitos/<arquivo></strong>
+    Todos os artefatos de documentação deverão ser depositados em <strong>/docs/{{fase de elaboração do artefato}}/</strong>. <br>
+    Por exemplo, caso sejam artefatos referentes à <strong>levantamento de requisitos</strong>, colocar em <strong>/docs/Requisitos/{{arquivo}}</strong>
 </p>
 <p>Abrir pull requests com referências para as issues criadas e atribuidas!</p>
 

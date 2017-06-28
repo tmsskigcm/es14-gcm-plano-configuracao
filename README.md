@@ -4,7 +4,7 @@
 
 Descrever a organização, nomenclatura e regras para gerenciar a configuração e as mudanças do **projeto Nine One Motorcycles**.
 
-## Nome do projeto: [Nine One Motorcycles]
+## Nome do projeto: Nine One Motorcycles
 
 ## Integrantes do grupo
 

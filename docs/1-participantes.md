@@ -2,34 +2,30 @@
 
 <table>
 <tr><th>Papel</th><th>Nomes</th></tr>
-<tr><td>Coodenador do projeto</td><td>[nome do coordenador]</td></tr>
+<tr><td>Coodenador do projeto</td><td>Sara Pastor Hidalgo</td></tr>
 <tr>
     <td>Analistas de sistemas</td>
     <td>
-        [nome do analista de sistemas 1]<br>
-        [nome do analista de sistemas 2]<br>
+        Elaine Pereira da Silva Alves<br>        
     </td>
 </tr>
 <tr>
     <td>Analistas de testes</td>
     <td>
-        [nome do analista de testes 1]<br>
-        [nome do analista de testes 2]<br>
+        Marcelo Augusto de Moraes<br>        
     </td>
 </tr>
-<tr><td>Arquiteto</td><td>[nome do arquiteto]</td></tr>
+<tr><td>Arquiteto</td><td>Sergio Eduardo Di Santoro Bruzetti</td></tr>
 <tr>
     <td>Programadores</td>
     <td>
-        [nome do programador 1]<br>
-        [nome do programador 2]<br>
+        Janaina Pereira dos Santos<br>        
     </td>
 </tr>
 <tr>
     <td>Implantadores</td>
     <td>
-        [nome do implantador 1]<br>
-        [nome do implantador 2]<br>
+        Luciana Eloi de Andrade<br>        
     </td>
 </tr>
 </table>

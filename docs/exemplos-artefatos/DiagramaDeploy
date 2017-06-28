@@ -1,0 +1,7 @@
+# Artefato: Diagrama de Deploy
+
+* A implantação será realizada utilizando três servidores de produção e a mesma quantidade de servidos para o ambiente de homologação.
+
+* Para o ambiente de produção será usado um servidor contendo a aplicação que fará comunicação com o servidor de bando de dados e
+e com o servidor de arquivos. 
+* Os servidores ficarão hospedados na Amazon, no serviço gratuito no primeiro ano.

@@ -15,7 +15,7 @@
         Jéssica<br>        
     </td>
 </tr>
-<tr><td>Arquiteto</td><td>[nome do arquiteto]</td></tr>
+<tr><td>Arquiteto</td><td>Rafael</td></tr>
 <tr>
     <td>Programadores</td>
     <td>
@@ -26,7 +26,6 @@
     <td>Implantadores</td>
     <td>
         Gustavo<br>
-        Rafael<br>
     </td>
 </tr>
 </table>

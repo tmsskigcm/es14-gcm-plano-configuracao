@@ -1,9 +1,18 @@
-# Descrição do projeto
+# Nine One Motorcycle
 
 ## Problema a ser resolvido
 
-[Descreva qual problema este sistema irá resolver.]
+O problema da falta de automatização dos processos de gerenciamento do estabelecimento afeta os funcionários e os clientes, devido a lentidão em encontrar as informações e históricos de serviços prestados aos clientes e seus respectivos veículos, assim como a dificuldade em gerenciar o fluxo de caixa e estoque de forma manual, utilizando apenas planilhas eletrônicas.
 
 ## Funcionalidades deste sistema
 
-[Enumere as funcionalidades que este sistema terá e que ajudarão na resolução do problema descrito no item anterior.]
+1 Controle de Clientes
+
+2 Controle de Serviços
+
+3 Controle de Veículos
+
+4 Controle Financeiro
+
+5 Controle de Estoque
+

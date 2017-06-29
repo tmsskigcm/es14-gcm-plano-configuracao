@@ -2,6 +2,7 @@
 
 <table>
 <tr><th>Item de configuração</th><th>Equipe responsável (analistas de sistemas, programadores etc.)</th></tr>
-<tr><td>Cronograma do Projeto</td><td>Arlindo</td></tr>
-<tr><td>Documento de Arquitetura de Desenvolvimento</td><td>Arlindo</td></tr>
+<tr><td>Verificar itens do checklist</td><td>Implantador</td></tr>
+<tr><td>Configurar perfis de acesso</td><td>Implantador</td></tr>
+<tr><td>Acompanhar/Analisar ocorrências</td><td>Implantador</td></tr>
 </table>

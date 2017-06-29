@@ -4,13 +4,14 @@
 
 Descrever a organização, nomenclatura e regras para gerenciar a configuração e as mudanças do **projeto deste grupo**.
 
-## Nome do projeto: [nome do seu projeto]
+## Nome do projeto: CRM-Pratike
 
 ## Integrantes do grupo
 
-* [integrante 1]
-* [integrante 2]
-* [integrante 3]
-* [integrante 4]
-* [integrante 5]
-
+* Arlindo
+* Cibele
+* Janaina Lima
+* Jose Belo Delfino
+* Laysiene
+* Mediane
+* Wilkner
